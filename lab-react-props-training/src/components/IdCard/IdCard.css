@@ -1,0 +1,10 @@
+.IdCard {
+	display: flex;
+	.content span {
+		font-weight: 700;
+	}
+	.content p {
+		margin: 0;
+		line-height: 1.5;
+	}
+}
